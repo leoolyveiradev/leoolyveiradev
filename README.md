@@ -13,7 +13,7 @@ _"Aprender, praticar e evoluir."_ 💚
   </a>
 </div>
 
-### Tecnologias que uso:
+### Technologies I use:
 
 <p align="vertical-align">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38"/>
