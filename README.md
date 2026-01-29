@@ -22,6 +22,7 @@ _"Aprender, praticar e evoluir."_ 💚
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38"/>
+  https://camo.githubusercontent.com/b159c6805998d16ff412e620f04c597294d5132599c72318afc7855f811bb3fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667
 </p>
 
 ### Encontre-me em:
