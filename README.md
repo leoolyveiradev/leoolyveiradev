@@ -2,7 +2,7 @@
 ### Eu sou _Leonardo Oliveira_
 Atualmente cursando Licenciatura em Informática (4° Período) e  
 Iniciando minha jornada em Desenvolvimento Web como Full Stack.  
-_"Aprender, praticar e evoluir."_ 💚
+_"Aprender, praticar e evoluir."_ ☕🧑‍💻
 
 ##
 <div align="center">
