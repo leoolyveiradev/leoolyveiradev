@@ -7,7 +7,7 @@ _"Aprender, praticar e evoluir."_ ☕🧑‍💻
 ##
 <div align="center">
   <a href="https://github.com/leoolyveiradev"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoolyveiradev&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev&show_icons=true"/>
   </a>
 </div> 
 
