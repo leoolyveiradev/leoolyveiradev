@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/leoolyveiradev"> 
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev&show_icons=true&theme=gotham"/>
-    <img height="260px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoolyveiradev&layout=compact&theme=gotham"/>
+    <img &card_width="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev&show_icons=true&theme=gotham"/>
+    <img &card_width="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoolyveiradev&layout=compact&theme=gotham"/>
   </a>
 </div> 
 
