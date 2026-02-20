@@ -12,7 +12,6 @@
   </tr>
 </table>
 
-#
 <div align="center">
   <a href="https://github.com/leoolyveiradev"> 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev&show_icons=true&theme=highcontrast"/>
