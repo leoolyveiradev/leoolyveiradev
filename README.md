@@ -7,7 +7,7 @@
       <p><em>"Aprender, praticar e evoluir."</em> ☕ 🧑‍💻 💻</p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/leoolyveiradev/leoolyveiradev/main/meu-avatar.jpg" width="280px">
+      <img src="https://raw.githubusercontent.com/leoolyveiradev/leoolyveiradev/main/meu-avatar.jpg" width="320px">
     </td>
   </tr>
 </table>
