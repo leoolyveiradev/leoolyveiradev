@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/leoolyveiradev"> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveira&show_icons=true&theme=aurora"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveira&show_icons=true&theme=gothan"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoolyveiradev&layout=compact&theme=tokyonight"/>
   </a>
 </div> 
