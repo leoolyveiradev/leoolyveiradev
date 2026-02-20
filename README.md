@@ -36,6 +36,6 @@ _"Aprender, praticar e evoluir."_ ☕🧑‍💻
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leoolyveira/leoolyveira/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leoolyveira/output/snake.svg" alt="Snake animation" />
 
 ###
