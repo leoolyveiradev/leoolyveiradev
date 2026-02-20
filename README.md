@@ -4,7 +4,7 @@
       <h1>👋 Fala, Dev!</h1>
       <p>Eu sou <strong><i>Leonardo Oliveira</i></strong></p>
       <p>Atualmente curso Licenciatura em Informática (5º período) e estou iniciando minha 
-        <br> jornada como Desenvolvedor Web Full Stack.</p>
+        <br> jornada em Desenvolvimento Web como Full Stack.</p>
       <p><em>"Aprender, praticar e evoluir."</em> ☕ 🧑‍💻 💻</p>
     </td>
     <td>
