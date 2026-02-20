@@ -31,3 +31,11 @@ _"Aprender, praticar e evoluir."_ ☕🧑‍💻
   <a href="mailto:leonardoolliveiradev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCAj5ZHPlCAsJBlz7sonRe3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/leoolyveira/leoolyveira/output/snake.svg" alt="Snake animation" />
+
+###
