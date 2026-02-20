@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>👋 Fala, Dev!</h1>
-      <p>Eu sou <strong>Leonardo Oliveira</strong></p>
+      <p>Eu sou <strong><i>Leonardo Oliveira</i>i></strong></p>
       <p>Atualmente cursando Licenciatura em Informática (5º Período) e iniciando minha jornada em Desenvolvimento Web como Full Stack.</p>
       <p><em>"Aprender, praticar e evoluir."</em> ☕ 🧑‍💻 💻</p>
     </td>
