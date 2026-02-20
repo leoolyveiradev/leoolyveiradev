@@ -1,8 +1,16 @@
-## 👋 Fala, Dev!
-### Eu sou _Leonardo Oliveira_
-Atualmente cursando Licenciatura em Informática (5° Período) e  
-Iniciando minha jornada em Desenvolvimento Web como Full Stack.  
-_"Aprender, praticar e evoluir."_ ☕🧑‍💻
+<table border="0">
+  <tr>
+    <td>
+      <h1>👋 Fala, Dev!</h1>
+      <p>Eu sou <strong>Leonardo Oliveira</strong></p>
+      <p>Atualmente cursando Licenciatura em Informática (5º Período) e iniciando minha jornada em Desenvolvimento Web como Full Stack.</p>
+      <p><em>"Aprender, praticar e evoluir."</em> ☕ 🧑‍💻 💻</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/leoolyveiradev/leoolyveiradev/main/meu-avatar.jpg" width="250px">
+    </td>
+  </tr>
+</table>
 
 ##
 <div align="center">
