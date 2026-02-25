@@ -20,7 +20,7 @@
   </a>
 </div> 
 
-### Technologies I use:
+### Technologies and Tools i Use:
 
 <p align="vertical-align">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38"/>
